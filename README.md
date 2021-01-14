@@ -11,7 +11,7 @@ Any station that has used all of the items in stock cannot fill any more orders.
 At the end of all processing, the line manager lists the completed orders and the orders that are incomplete.
 
 ## Screenshot
-
+![Example screenshot](./Untitled.png)
 
 ## Run project locally
 Install [Visual Studio Community.](https://visualstudio.microsoft.com/vs/community/)
