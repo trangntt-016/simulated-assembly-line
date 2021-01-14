@@ -18,8 +18,8 @@ Install [Visual Studio Community.](https://visualstudio.microsoft.com/vs/communi
 
 Clone the repo
    ```sh
-   git clone https://https://github.com/trangntt-016/simulated-assembly-app
-   cd simulated-assembly-app
+   git clone https://https://github.com/trangntt-016/simulated-assembly-line
+   cd simulated-assembly-line
    ```
 
 
