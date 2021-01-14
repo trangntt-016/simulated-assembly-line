@@ -1,0 +1,12 @@
+﻿  CustomerOrder.cpp
+C:\Users\trang\Projects\C++\simulated-assembly-line\simulated-assembly-line\CustomerOrder.cpp(62,19): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+  LineManager.cpp
+C:\Users\trang\Projects\C++\simulated-assembly-line\simulated-assembly-line\LineManager.cpp(74,39): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Station.cpp
+  Utilities.cpp
+C:\Users\trang\Projects\C++\simulated-assembly-line\simulated-assembly-line\Utilities.cpp(30,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\trang\Projects\C++\simulated-assembly-line\simulated-assembly-line\Utilities.cpp(26,25): warning C4101: 'err': unreferenced local variable
+  Workstation.cpp
+  Generating Code...
+  simulated-assembly-line.vcxproj -> C:\Users\trang\Projects\C++\simulated-assembly-line\x64\Debug\simulated-assembly-line.exe
