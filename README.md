@@ -16,16 +16,10 @@ At the end of all processing, the line manager lists the completed orders and th
 ## Run project locally
 Install [Visual Studio Community.](https://visualstudio.microsoft.com/vs/community/)
 
-Install [Oracle SQL Developer.](https://www.oracle.com/ca-en/tools/downloads/sqldev-v192-downloads.html)
-
-Install [Oracle Instant Client SDK.](https://www.oracle.com/ca-en/database/technologies/instant-client/downloads.html)
-```sh
-Follow the instructions in the file "Project_Setup_Connecting" of this repo to configure Oracle Instant Client.
-```
 Clone the repo
    ```sh
-   git clone https://https://github.com/trangntt-016/retail-app
-   cd retail-app
+   git clone https://https://github.com/trangntt-016/simulated-assembly-app
+   cd simulated-assembly-app
    ```
 
 
