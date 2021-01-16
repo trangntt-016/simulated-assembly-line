@@ -1,4 +1,6 @@
 # simulated-assembly-line
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/trangntt-016/simulated-assembly-line)
+
 The purpose of this project is to put C++ OOP skills to practice.
 
 ## Introduction
